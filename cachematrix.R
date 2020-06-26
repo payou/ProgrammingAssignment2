@@ -1,4 +1,4 @@
-mcm## Programmig assignment 2
+## Programmig assignment 2
 
 ## Special matrix. Get/set the matrix. Get/set the inverse matrix.
 
